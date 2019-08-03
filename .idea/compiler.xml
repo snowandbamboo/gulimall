@@ -12,19 +12,20 @@
         <module name="gulimall-wms" />
         <module name="gulimall-ums" />
         <module name="gulimall-sms" />
+        <module name="gulimall-gateway" />
         <module name="gulimall-oms" />
         <module name="gulimall-core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gulimall" target="1.8" />
-      <module name="gulimall-admin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="guli-generator" options="-parameters" />
       <module name="gulimall-admin" options="-parameters" />
+      <module name="gulimall-gateway" options="-parameters" />
       <module name="gulimall-oms" options="-parameters" />
       <module name="gulimall-pms" options="-parameters" />
       <module name="gulimall-sms" options="-parameters" />

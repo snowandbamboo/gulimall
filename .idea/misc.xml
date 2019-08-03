@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/gulimall-sms/pom.xml" />
         <option value="$PROJECT_DIR$/gulimall-core/pom.xml" />
         <option value="$PROJECT_DIR$/guli-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-gateway/pom.xml" />
       </list>
     </option>
   </component>
